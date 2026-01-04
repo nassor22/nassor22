@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ML, Backend using Django**
 
-- 💬 Ask me about **PCB Design, Automation, Web and App development**
+- 💬 Ask me about **PCB Design, Automation, Web and App development, Robotics Engineering and Embedded Systems**
 
 - 📫 How to reach me **abuuhnassorjr009@gmail.com**
 
