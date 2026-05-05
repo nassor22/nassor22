@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nassor Nassor</h1>
-<h3 align="center">A passionate full stack developer in Tanzania</h3>
+<h3 align="center">A passionate embedded systems engineer in Tanzania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngulipro&label=Profile%20views&color=0e75b6&style=flat" alt="ngulipro" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MaarifaHub](https://github.com/ngulipro/maarifaHub.git)
 
-- 🌱 I’m currently learning **ML, Backend using Django**
+- 🌱 I’m currently learning **ML, STM32**
 
 - 💬 Ask me about **PCB Design, Automation, Web and App development, Robotics Engineering and Embedded Systems**
 
